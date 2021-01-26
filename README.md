@@ -1,0 +1,3 @@
+# MapStruct
+
+MapStruct Sample source
